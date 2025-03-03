@@ -1,20 +1,14 @@
-Here's a fresh, creative, and unique GitHub README for you, customized based on your resume:  
 
----
-
-## 🚀 Hey there! I'm M Shivani Kashyap  
+# 🚀 Hey there! I'm M Shivani Kashyap  
 
 Welcome to my digital space, where **Artificial Intelligence**, **Machine Learning**, and **Generative AI** converge to create impactful innovations! I thrive on building **intelligent solutions** that simplify interactions, improve decision-making, and push the boundaries of what's possible in AI.  
 
-### 💡 About Me  
+## 💡 About Me  
 I'm an **AI & ML enthusiast** with a strong foundation in **computer vision, data science, and automation**. Passionate about solving real-world challenges, I specialize in **gesture recognition**, **healthcare AI**, and **workflow automation**.   
 
 📍 **Based in Bangalore, India**  
-📧 **[m.shivanikashyap2003@gmail.com](mailto:m.shivanikashyap2003@gmail.com)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/m-shivani-kashyap-245648262/)**  
 🔗 **[GitHub](https://github.com/shivanikashyap25)**  
-
----  
 
 ## 🔥 What I Do  
 
