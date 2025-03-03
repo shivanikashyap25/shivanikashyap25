@@ -25,7 +25,6 @@ I'm an **AI & ML enthusiast** with a strong foundation in **computer vision, dat
 🔹 **Automated Document Processing** – Extracted structured data from PDFs using **OCR (Tesseract), PyMuPDF & FastAPI** for efficient document management.  
 🔹 **AWS Cloud Deployment** – Assisted in **scalable cloud infrastructure** deployment during my AWS Internship.  
 
----  
 
 ## 🛠️ Skills & Tools  
 
@@ -47,7 +46,6 @@ I'm an **AI & ML enthusiast** with a strong foundation in **computer vision, dat
 ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![VMWare](https://img.shields.io/badge/VMWare-%230066CC.svg?style=for-the-badge&logo=vmware&logoColor=white)  
 
----  
 
 ## 🎖️ Certifications & Achievements  
 ✔️ **Microsoft Azure AI Fundamentals**  
@@ -63,7 +61,6 @@ I'm an **AI & ML enthusiast** with a strong foundation in **computer vision, dat
 🔹 **Top 9 in ML-Fiesta, IIIT Bengaluru**  
 🚀 **Top 25 out of 50,000+** in **Vultr Cloud Hackathon**  
 
----  
 
 ## 📊 GitHub Stats  
 
