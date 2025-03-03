@@ -76,7 +76,6 @@ I'm an **AI & ML enthusiast** with a strong foundation in **computer vision, dat
 ## 🤝 Let's Connect!  
 💬 I’m always open to discussions, collaborations, and exploring exciting **AI-driven projects**. Feel free to reach out!  
 
-📩 **[Email](mailto:m.shivanikashyap2003@gmail.com)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/m-shivani-kashyap-245648262/)**  
 🔗 **[GitHub](https://github.com/shivanikashyap25)**  
 
